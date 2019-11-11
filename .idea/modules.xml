@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/crudmysql.iml" filepath="$PROJECT_DIR$/.idea/crudmysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crud2019-CrudMySQLAndroid.iml" filepath="$PROJECT_DIR$/Crud2019-CrudMySQLAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrudMySQLAndroid.iml" filepath="$PROJECT_DIR$/CrudMySQLAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crudmysql-CrudMySQLAndroid.iml" filepath="$PROJECT_DIR$/crudmysql-CrudMySQLAndroid.iml" />
     </modules>
   </component>
 </project>
