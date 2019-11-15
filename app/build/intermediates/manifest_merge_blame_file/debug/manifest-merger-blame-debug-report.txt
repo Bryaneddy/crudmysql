@@ -41,49 +41,48 @@
 26-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
 27-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:12:9-35
-28        android:testOnly="true"
-29        android:theme="@style/AppTheme" >
-29-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:13:9-40
-30        <activity android:name="com.example.crudmysqlandroid.Login" />
-30-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:14:9-52
-30-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:14:19-40
-31        <activity android:name="com.example.crudmysqlandroid.Consulta_RecyclerView" />
-31-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:15:9-59
-31-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:15:19-56
-32        <activity
-32-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:16:9-25:20
-33            android:name="com.example.crudmysqlandroid.MainActivity"
-33-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:17:13-41
-34            android:label="@string/title_activity_main2"
-34-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:18:13-57
-35            android:theme="@style/AppTheme.NoActionBar" >
-35-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:19:13-56
-36            <intent-filter>
-36-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:20:13-24:29
-37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:21:17-69
-37-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:21:25-66
-38
-39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:23:17-77
-39-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:23:27-74
-40            </intent-filter>
-41        </activity>
-42        <activity
-42-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\7970324fbc13a3af11ad95f07aab568b\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
-43            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-43-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\7970324fbc13a3af11ad95f07aab568b\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
-44            android:exported="false"
-44-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\7970324fbc13a3af11ad95f07aab568b\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
-45            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-45-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\7970324fbc13a3af11ad95f07aab568b\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
-46
-47        <meta-data
-47-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\38c6035517857df3bb6dad38477e6689\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
-48            android:name="com.google.android.gms.version"
-48-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\38c6035517857df3bb6dad38477e6689\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
-49            android:value="@integer/google_play_services_version" />
-49-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\38c6035517857df3bb6dad38477e6689\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
-50    </application>
-51
-52</manifest>
+28        android:theme="@style/AppTheme" >
+28-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:13:9-40
+29        <activity android:name="com.example.crudmysqlandroid.Login" />
+29-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:14:9-52
+29-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:14:19-40
+30        <activity android:name="com.example.crudmysqlandroid.Consulta_RecyclerView" />
+30-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:15:9-59
+30-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:15:19-56
+31        <activity
+31-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:16:9-25:20
+32            android:name="com.example.crudmysqlandroid.MainActivity"
+32-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:17:13-41
+33            android:label="@string/title_activity_main2"
+33-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:18:13-57
+34            android:theme="@style/AppTheme.NoActionBar" >
+34-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:19:13-56
+35            <intent-filter>
+35-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:20:13-24:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:21:17-69
+36-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:21:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:23:17-77
+38-->C:\Users\Bryant Gonzalez xD\AndroidStudioProjects\crudmysql\app\src\main\AndroidManifest.xml:23:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\7970324fbc13a3af11ad95f07aab568b\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+42            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+42-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\7970324fbc13a3af11ad95f07aab568b\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+43            android:exported="false"
+43-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\7970324fbc13a3af11ad95f07aab568b\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+44            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+44-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\7970324fbc13a3af11ad95f07aab568b\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+45
+46        <meta-data
+46-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\38c6035517857df3bb6dad38477e6689\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+47            android:name="com.google.android.gms.version"
+47-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\38c6035517857df3bb6dad38477e6689\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
+48            android:value="@integer/google_play_services_version" />
+48-->[com.google.android.gms:play-services-basement:16.0.1] C:\Users\Bryant Gonzalez xD\.gradle\caches\transforms-2\files-2.1\38c6035517857df3bb6dad38477e6689\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+49    </application>
+50
+51</manifest>
