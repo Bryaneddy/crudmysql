@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Bryant Gonzalez xD\\AndroidStudioProjects\\Crud2019\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si\\values-si.xml",
+            "outputFile": "C:\\Users\\Bryant Gonzalez xD\\AndroidStudioProjects\\crudmysql\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si\\values-si.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Bryant Gonzalez xD\\.gradle\\caches\\transforms-2\\files-2.1\\38c6035517857df3bb6dad38477e6689\\jetified-play-services-basement-16.0.1\\res\\values-si\\values.xml",

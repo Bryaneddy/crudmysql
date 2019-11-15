@@ -375,7 +375,7 @@ public class MainActivity extends AppCompatActivity{
     }
     private void DialogConfirmacion1(){
         //startActivity(new Intent(getApplicationContext(),MainActivity.class));
-        String mensaje2 = "CREADO POR: JORGE NOLBERTO LOPEZ";
+        String mensaje2 = "CREADO POR: Bryan Gonzalez";
         dialogo = new AlertDialog.Builder(MainActivity.this);
         dialogo.setIcon(R.drawable.ic_search);
         dialogo.setTitle("ACERCA DE");
@@ -391,7 +391,7 @@ public class MainActivity extends AppCompatActivity{
         });
         dialogo.setNegativeButton("Volver", new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialogo, int id) {
-                Toast.makeText(getApplicationContext(), "dearbert.", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "bryan.", Toast.LENGTH_LONG).show();
             }
         });
         dialogo.show();
