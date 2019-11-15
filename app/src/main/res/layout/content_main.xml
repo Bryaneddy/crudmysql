@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#DF8604"
+    android:background="#E91E63"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context=".MainActivity"
     tools:showIn="@layout/activity_main">
@@ -92,7 +92,7 @@
                 android:drawableRight="@drawable/ic_save"
                 android:drawablePadding="-140dp"
                 android:paddingRight="100dp"
-                android:shadowColor="#F39305"
+                android:shadowColor="#1334F1"
                 android:shadowDx="-3"
                 android:shadowDy="0"
                 android:shadowRadius="8"
